@@ -573,11 +573,16 @@
     ]
   },
   {
-    "title": "Microfinance institutions (MFIs)",
-    "definition": "organisations that provide small loans (averaging 100USD) to poor households, normally for self-employment in the informal sector, without requiring collateral.\nMarginal vs. Average returns:\nMarginal: the net revenue change from investing $1 more or less.\nAverage: total revenue net of operating expenses, indicating whether a business is viable.",
+    "title": "Marginal vs. Average returns",
+    "definition": "Marginal: the net revenue change from investing $1 more or less.\nAverage: total revenue net of operating expenses, indicating whether a business is viable.",
     "examples": [
       "poor entrepreneurs often face high marginal returns but low average returns due to small-scale, undifferentiated businesses (e.g., street vendors selling identical snacks)."
     ]
+  },
+  {
+    "title": "Microfinance institutions (MFIs)",
+    "definition": "organisations that provide small loans (averaging 100USD) to poor households, normally for self-employment in the informal sector, without requiring collateral.",
+    "examples": []
   },
   {
     "title": "Informal sector",
