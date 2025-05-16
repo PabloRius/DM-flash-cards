@@ -1,0 +1,702 @@
+[
+  {
+    "title": "Institutions",
+    "definition": "Rules, norms and structures that both enable and constrain behaviour (duality) shaped by power dynamics, and evolving through historical and social processes (Tang, 2022). Institutions evolve with development, not just cause it.\n'Rules of the game'. Set constraints on human behaviour (North, 1990).\nFeatures: humanly devised, sticky (hard to change) and their major effects operate through incentives. Thus, they are the fundamental cause of economic growth and development differences across countries.",
+    "examples": [
+      "the legal system establishes rules for contracts, enforces laws and resolves disputes shaping behaviour in economic and social interaction.",
+      "Many countries (like China, South Korea, Singapore) developed under very different institutional arrangements—e.g., strong states, limited property rights, and autocracy."
+    ]
+  },
+  {
+    "title": "Inclusive political institutions",
+    "definition": "pluralistic systems that protect individual rights. These, in turn, give rise to inclusive economic institutions, which secure private property and encourage entrepreneurship. The long-term result is higher incomes and improved human welfare. Born out of a large number of Europeans settling in colonies, developing institutions for their own future benefits.",
+    "examples": []
+  },
+  {
+    "title": "Extractive political institutions",
+    "definition": "place power in the hands of a few and cause extractive economic institutions, which feature unfair regulations and high barriers to entry into markets. Designed to enrich a small elite, these institutions inhibit economic progress for everyone else.",
+    "examples": [
+      "Caribbean sugar colonies developed extractive institutions leading to inequality, while North America's homogeneous population fostered inclusive institutions."
+    ]
+  },
+  {
+    "title": "Organisations",
+    "definition": "a structured group of individuals or entities that operates collectively to achieve specific political objectives, such as influencing public policy, gaining power, or advancing ideological, social, or economic interests.",
+    "examples": ["political parties or NGOs."]
+  },
+  {
+    "title": "Property rights",
+    "definition": "social institutions that regulate the use of scarce resources by assigning and enforcing rights and duties (Barzel 1997). Legal theory uses a narrower definition of property rights than does the new institutional economics.",
+    "examples": ["land titles."]
+  },
+  {
+    "title": "WEIRD societies (Henrich, 2020)",
+    "definition": "refers to societies which tend to be Westernised, Educated, Industrialised, Rich, and Democratic, characterised by:\nPrioritisation of individual attributes and accomplishments rather than (extended) family and social roles; guilt vs shame, monogamous vs polygamous, etc.\nIn non-WEIRD societies: different names given to different types of aunts/uncles (father's brother vs mother's brother), including in Latin (patruus vs avunculus).\nOrigins traced to medieval Church policies banning polygamy/cousin marriages.",
+    "examples": [
+      "Medieval Catholic Church's marriage bans (e.g., no cousin marriages) fostered impersonal commerce in Europe."
+    ]
+  },
+  {
+    "title": "Criticism against WEIRD argument (AJR)",
+    "definition": "Not universal. Countries like HK, Taiwan developed without WEIRD traits. Or could be reversed causality- development creates WEIRD traits?",
+    "examples": []
+  },
+  {
+    "title": "Geography argument for development (Gallup, Sachs & Mellinger)",
+    "definition": "geography influences development through:\nTropical disadvantages: higher disease burden, lower agricultural productivity. Some of these diseases are present all year round (not seasonal) so they are very hard to eradicate. Eg: disease burden in Africa or malaria in India\nCoastal advantages: trade, population density, and division of labor.",
+    "examples": [
+      "Tropical countries face 30-50% lower agricultural productivity and also face year-round diseases like malaria.",
+      "Bolivia vs Vietnam. Bolivia had a strong political culture and developed civil rights, but its geography (landlocked, mountainous terrain) made it harder to attract foreign investment and experience growth. In contrast, Vietnam's coastline and access to international markets spurred rapid economic growth and ability to attract foreign investment, highlighting how geography can play a critical role.",
+      "Nogales, Arizona (US) vs. Nogales, Sonora (Mexico). The two cities on either side of the U.S.-Mexico border are used to argue that geography and proximity to markets influence economic outcomes. Nogales, Sonora, has developed due to its strategic location for serving U.S. markets, while Nogales, Arizona, is relatively poorer despite being in the U.S."
+    ]
+  },
+  {
+    "title": "Counter arguments to geography",
+    "definition": "",
+    "examples": [
+      "Singapore. Despite not being well endowed it did extremely well in terms of growth and development.",
+      "Sierra Leone vs Botswana. Both are highly blessed with a natural resource: diamonds. However, Botswana is one of the fastest growing economies compared to Sierra Leone (due to stronger institutions) while in Sierra Leone diamonds became a source of conflict and fuelled a brutal civil war that lasted from 1991 to 2002."
+    ]
+  },
+  {
+    "title": "Reversal of Fortune (Acemoglu et al.)",
+    "definition": "a pattern where the richest colonies in 1750 (e.g., Caribbean sugar economies) are among the poorest today, while poorer colonies (e.g., North America) became wealthy due to differing colonial institutions, driven by settler mortality.",
+    "examples": [
+      "Haiti was the richest colony in 1790 but is now among the poorest."
+    ]
+  },
+  {
+    "title": "Malthusian Trap",
+    "definition": "a pre-industrial cycle where technological advances temporarily raised living standards, but population growth eventually returned them to subsistence levels.",
+    "examples": [
+      "pre-Industrial Revolution Europe saw no long-term living standard rises despite tech advances."
+    ]
+  },
+  {
+    "title": "Social Orders",
+    "definition": "Different types of societal organisation:\nForaging Order: hunter-gatherer societies with high violence.\nLimited Access order (LAO)/ Natural State: power and rents distributed among elites; personal relationships dominate.\nControl violence through the distribution of rents to powerful elites —generates stable but non-static coalitions.\nInsecure property rights, privileges, hierarchies, unequal enforcement of law.\nOpen Access Order (OAO): impersonal institutions, secure property rights, and equality under law. OAOs are better capable of sustaining economic growth than LAOs because the former secures contract enforcement mechanisms that allow economic agents to engage in impersonal exchange (trading without knowing each other).",
+    "examples": ["Botswana's transition from limited to open access order."]
+  },
+  {
+    "title": "Path Dependence",
+    "definition": "historical institutional choices create high reversal costs, locking societies into specific trajectories (e.g., inefficient equilibria).",
+    "examples": [
+      "UK's unelected House of Lords enduring + extractive institutions in South America leading the way for future development."
+    ]
+  },
+  {
+    "title": "State",
+    "definition": "permanent administrative, legal, and coercive system with a monopoly over the legitimate use of force within a given territory. Based on the Montevideo Convention's criteria: \nPermanent population\nDefined territory\nGovernment\nCapacity to enter into relations with other states",
+    "examples": []
+  },
+  {
+    "title": "Policy",
+    "definition": "Tool used by governments and implemented by the state to try to achieve a desired social outcome (Ex: Obamacare).\nNeither an institution or organisation.",
+    "examples": []
+  },
+  {
+    "title": "De jure vs de facto rules",
+    "definition": "De jure: formal rules (laws, constitutions).\nDe facto: actual norms and practices (e.g., unwritten elite privileges).",
+    "examples": []
+  },
+  {
+    "title": "Harrod-Domar Model",
+    "definition": "a linear growth model where growth (g) depends on the savings rate (s) and capital-to-output ratio (k), so that (g = s/k). However, real life cannot be explained by this model... the fastest growth episodes in poor countries contradict high-savings assumptions. Still, this model has been highly influential in the international aid debate. Developing countries are believed to have a financing gap, that aid can cover and lead to prosperity (based on this model's assumptions).",
+    "examples": [
+      "China's 2000s growth fueled by a 45% savings rate (vs 15% in the US)."
+    ]
+  },
+  {
+    "title": "Neoclassical Growth Model (Solow, 1956)",
+    "definition": "a model where growth stems from capital accumulation but tapers off due to diminishing returns. Assumes exogenous technological progress. Defined by:\nA production function that expresses the current flow of output goods as a function of the current stocks of capital and labor; \nA law of motion describing how capital accumulation depends positively on investment (equal to aggregate savings) and negatively on capital depreciation.",
+    "examples": [
+      "South Korea's 1960-1990 growth slowdown from 7% to 3% as capital intensity increased."
+    ]
+  },
+  {
+    "title": "Endogenous Growth Theory",
+    "definition": "explores how productivity increases through innovation. A central insight is that ideas are a different kind of good, they have positive spillover effects. People can learn from each other, so these 'goods' have increasing returns to scale.",
+    "examples": [
+      "Taiwan's Hsinchu Science Park - deliberate clustering of tech firms to foster innovation spillovers."
+    ]
+  },
+  {
+    "title": "Gerschenkron's Advantages of Backwardness",
+    "definition": "late-industrialising countries can 'leapfrog' by imitating advanced technologies, aided by state intervention.",
+    "examples": [
+      "Vietnam's smartphone manufacturing skipping landline infrastructure."
+    ]
+  },
+  {
+    "title": "Rostow's Stages of Growth",
+    "definition": "Traditional society: subsistence economy, with output not traded, the existence of barter and high levels of labor-intensive agriculture.\nPreconditions for take-off: increase in capital use in agriculture, the development of mining industries, and some growth in savings and investment.\nTake-off: higher levels of investment and industrialisation, accumulation of savings, and a decline in the share of the agricultural labor force.\nDrive to maturity: wealth generation enables further investment in value adding industry and development —growth becomes self-sustaining, industry is diversified, and more sophisticated technology is used.\nMass consumption: high output levels and where the services industry dominates the economy.",
+    "examples": [
+      "South Korea. After the Korean War (1950-1953), South Korea was largely an agrarian society in the first stage of the theory. During the 1990s and 2000s it moved into the 'Drive to Maturity' stage with technological innovation and the development of highly specialised sectors like electronics and biotechnology."
+    ]
+  },
+  {
+    "title": "Lucas Paradox",
+    "definition": "the observation that capital does not flow to poorer countries despite higher marginal returns, contrary to neoclassical predictions.",
+    "examples": [
+      "Sub-Saharan Africa receives less FDI than advanced economies."
+    ]
+  },
+  {
+    "title": "Deep vs. Proximate Determinants of Growth",
+    "definition": "Deep: Geography, institutions, culture (hard to change).\nProximate: Physical/human capital, technology (policy-malleable).",
+    "examples": [
+      "Botswana's diamonds (geography) + good governance (institutions) vs DRC's failed resource curse."
+    ]
+  },
+  {
+    "title": "Different types of states",
+    "definition": "",
+    "examples": []
+  },
+  {
+    "title": "Neo-patrimonial State",
+    "definition": "a state where formal institutions are weak, and public officeholders treat state resources as personal patrimony, blending modern bureaucratic facades with personalistic rule.",
+    "examples": ["Mobutu (1965-1997) DRC —state treated as private property."]
+  },
+  {
+    "title": "Cohesive-Capitalist State (Kohli, 2004)",
+    "definition": "a centralised, authoritarian state that prioritises rapid industrialisation by aligning elite interests with private-sector profitability, often through repression and targeted growth policies. Equate rapid economic growth with national security and thus define it as a priority.",
+    "examples": ["South Korea's rapid industrialisation under Park."]
+  },
+  {
+    "title": "Fragmented-Multiclass State",
+    "definition": "a state with dispersed authority and broad class alliances, necessitating compromise across diverse constituencies, which dilutes policy focus and effectiveness.",
+    "examples": [
+      "Brazil's struggle to reform pensions due to competing interest groups."
+    ]
+  },
+  {
+    "title": "Land Reform",
+    "definition": "a policy aimed at redistributing agricultural land to reduce inequality, often by breaking up large estates and transferring ownership to tenant farmers or smallholders.",
+    "examples": [
+      "Taiwan's Land-to-the-Tiller Act (1953), which limited private landholdings to three hectares and transferred ownership to 2 million farmers, boosting rural incomes and reducing inequality."
+    ]
+  },
+  {
+    "title": "Import Substitution Industrialisation (ISI)",
+    "definition": "an economic policy where a country replaces imported goods with domestically produced goods, often through tariffs, subsidies, and state intervention, to promote industrial growth.\nComposition of imports changes: from importing consumer goods (non-durables and durables) to importing consumer durables (still) and producer goods (new).\nGrowth creates more demand for consumer durables (more income → more dishwashers, refrigerators, washing machines, TVs, cars, …)\nISI might become unaffordable if the demand for imports exceeds countries' abilities to pay.",
+    "examples": [
+      "Latin America in the mid-20th century (e.g., Brazil's state-led industrialisation in the 1950s–60s, producing textiles and automobiles locally)."
+    ]
+  },
+  {
+    "title": "Prebisch-Singer Theory",
+    "definition": "the hypothesis that the terms of trade for primary commodities (e.g., agricultural goods) decline over time relative to manufactured goods, disadvantaging developing countries.",
+    "examples": [
+      "Argentina's reliance on beef and grain exports in the early 20th century, which lost value compared to imported machinery, leading to trade deficits."
+    ]
+  },
+  {
+    "title": "Direct vs indirect resource transfer",
+    "definition": "Direct: explicit taxes or price controls to shift resources from agriculture to industry (e.g., Taiwan taxing landowners).\nIndirect: implicit transfers via overvalued exchange rates or subsidies (e.g., Mexico's 1970s policies favouring urban industry over rural exports).",
+    "examples": []
+  },
+  {
+    "title": "Washington Consensus",
+    "definition": "a set of neoliberal policy prescriptions promoted by Western institutions (IMF, World Bank) for developing countries, emphasising free markets, privatisation, fiscal discipline, and trade liberalisation.\nFiscal Policy Discipline: reduction in public spending, post 1970s and 80s debt crisis there was a massive reduction in infrastructure in Africa due to the SAPs.\nReduce Subsidies and Spend on Services & Investment: free up public resources being spent on inefficient sectors which can then be put to more productive use.\nTax Reform: reform the tax system to increase revenue through efficient sources.\nFinancial liberalisation: allowing markets to determine interest rates.\nCompetitive Exchange Rates: exchange rates should be maintained at levels that promote export competitiveness\nTrade Liberalization: removal of trade barriers forces industries to 'grow up' and takes away the advantage of unproductive sectors.\nLiberalization of FDI: permitting inward foreign investment.\nPrivatization: increases incentives compatible with profit maximisation. Should result in an increase in marginal productivity.\nExtensive Deregulation: allow the markets to function freely by easing barriers to entry and exit.\nProperty Rights: protecting property rights to encourage investments.\nNormally a policy implemented through SAPs in response to the crisis that emerged through petrodollar recycling.",
+    "examples": [
+      "Chile under Pinochet (1970s–80s), where the 'Chicago Boys' implemented shock therapy (austerity, deregulation), leading to short-term recession but eventual growth."
+    ]
+  },
+  {
+    "title": "Structural Adjustment Program (SAPs)",
+    "definition": "loans from the IMF/World Bank conditioned on economic reforms like reducing subsidies, privatising state-owned enterprises, and liberalising trade.",
+    "examples": [
+      "Egypt's 1991 reforms under IMF, which cut food subsidies (triggering bread riots) but stabilised the economy."
+    ]
+  },
+  {
+    "title": "Industrial Policy",
+    "definition": "government intervention to steer economic activity toward targeted sectors (e.g., subsidies, tariffs, R&D support).",
+    "examples": [
+      "South Korea's Heavy Chemical Industry (HCI) drive (1970s), which boosted steel and electronics exports."
+    ]
+  },
+  {
+    "title": "Infant Industry Protection",
+    "definition": "temporary tariffs/subsidies to shield nascent industries from foreign competition until they become competitive.",
+    "examples": [
+      "Japan's protection of Toyota in the 1950s before it became a global automaker."
+    ]
+  },
+  {
+    "title": "Stolper-Samuelson Theorem",
+    "definition": "trade liberalisation benefits a country's abundant factor (e.g., U.S. skilled labor) but harms scarce factors (e.g., U.S. manufacturing workers).",
+    "examples": [
+      "U.S. textile job losses post-NAFTA (1990s) due to competition from Mexico."
+    ]
+  },
+  {
+    "title": "Comparative Advantage",
+    "definition": "countries should specialise in goods they produce relatively more efficiently (within comparison), even if less efficient in absolute terms.",
+    "examples": [
+      "Portugal exporting wine and England cloth in Ricardo's classic model (despite Portugal being better at both)."
+    ]
+  },
+  {
+    "title": "Instrumental Power (Business)",
+    "definition": "direct lobbying by businesses using political resources (e.g., campaign donations, elite networks) to shape policy.",
+    "examples": [
+      "U.S. pharmaceutical companies lobbying Congress to block Medicare drug price negotiations."
+    ]
+  },
+  {
+    "title": "Structural Power (Business)",
+    "definition": "the indirect influence businesses wield because governments depend on private investment for growth; so policy changes are avoided if they might deter capital.",
+    "examples": [
+      "Chile's 1970s nationalisation of copper under Allende triggered capital flight, forcing policy reversals to regain investor confidence."
+    ]
+  },
+  {
+    "title": "Types of Capitalism",
+    "definition": "",
+    "examples": []
+  },
+  {
+    "title": "Liberal Market Economy (LME)",
+    "definition": "capitalism driven by market competition, short-term employment, and general skills (e.g., U.S., UK).",
+    "examples": [
+      "Silicon Valley's flexible labor market, where tech firms hire/fire based on demand."
+    ]
+  },
+  {
+    "title": "Coordinated Market Economy (CME)",
+    "definition": "capitalism relying on long-term stakeholder negotiation, sectoral unions, and skill-specific training (e.g., Germany).",
+    "examples": [
+      "Germany's apprenticeship system, where firms and unions co-design vocational training."
+    ]
+  },
+  {
+    "title": "Network Capitalism",
+    "definition": "economic coordination through informal ties and cross-shareholding among firms (e.g., Japan's keiretsu).",
+    "examples": [
+      "Toyota's keiretsu suppliers, which collaborate closely on R&D and production."
+    ]
+  },
+  {
+    "title": "Hierarchical Capitalism (Latin America)",
+    "definition": "an economic system dominated by family-owned conglomerates and MNCs, with weak labor rights and low skill investment, perpetuating inequality.",
+    "examples": [
+      "Grupo Carso (Mexico), a diversified conglomerate owned by Carlos Slim, controls telecom, construction, and retail sectors with minimal worker up-skilling."
+    ]
+  },
+  {
+    "title": "Microfinance institutions (MFIs)",
+    "definition": "organisations that provide small loans (averaging 100USD) to poor households, normally for self-employment in the informal sector, without requiring collateral.",
+    "examples": ["Sari Sari in the Philippines."]
+  },
+  {
+    "title": "Informal sector",
+    "definition": "economic activities characterised by small scale, lack of regulation, low tax compliance, and ease of entry, often family-based.",
+    "examples": [
+      "in Peru, the informal sector is larger than in other Latin American countries, with firms avoiding taxes and operating outside formal legal systems."
+    ]
+  },
+  {
+    "title": "Informal Enterprises",
+    "definition": "Are typically small-scale1, with informal firms employing an average of only 4 people, compared to 126 for formal firms.\nOften unrecognised or operate in a legal grey area.\nTend to have low tax compliance and limited access to the legal system and other formal benefits.\nUnproductive and stagnant. They have significantly lower productivity and pay much lower wages than formal firms.\nEase of entry into the informal sector.\nBusinesses tend to be family-kinship based.\nUndifferentiated from others around them, run by operators who have no chance to earn a reasonable living.\nMany micro-entrepreneurs in the informal sector run businesses out of necessity rather than being motivated to disrupt the market; they are sometimes described as \"reluctant\" rather than 'natural' entrepreneurs.\nInformal firms rarely transition to become formal businesses.",
+    "examples": []
+  },
+  {
+    "title": "Poverty Penalty",
+    "definition": "the poor pay higher prices for lower-quality goods/services due to:\n1.Costs of distribution\n2. Intermediaries\n3. Local monopolies\n4. Low (perceived) purchasing power. Profit-maximizing firms think 'there's no market', leaving the poor for governments, charities and NGOs.",
+    "examples": [
+      "In Mumbai, credit costs 600–1,000% annually in Dharavi (a poor area) vs. 12–18% in wealthier Warden Road."
+    ]
+  },
+  {
+    "title": "Reluctant Entrepreneurs",
+    "definition": "poor individuals running businesses out of necessity rather than innovation, often offering undifferentiated products. (vs opportunity entrepreneurs).",
+    "examples": [
+      "Micro-entrepreneurs in Sri Lanka formalised only when given financial incentives, as many saw no benefit otherwise (Mel et al., 2013)."
+    ]
+  },
+  {
+    "title": "Traditional model of Public Administration",
+    "definition": "a hierarchical, rule-based bureaucracy staffed by permanent, neutral officials who implement policies decided by politicians, motivated solely by public interest. Based on Weber's principles: administrative system emphasising hierarchy, merit-based recruitment, rule-bound processes, and technical expertise.",
+    "examples": [
+      "The British Civil Service, established by the Northcote-Trevelyan Report (1854), recruited officials via merit-based exams, ending patronage."
+    ]
+  },
+  {
+    "title": "New Public Management (NPM)",
+    "definition": "reforms introducing private-sector management techniques (e.g., performance pay, competition, disaggregation) into public services to improve efficiency and accountability.",
+    "examples": [
+      "The UK's 'agencification' (e.g., creating executive agencies like the Driver and Vehicle Licensing Agency) to focus on service delivery with measurable targets."
+    ]
+  },
+  {
+    "title": "Traditional vs New Public Management",
+    "definition": "Traditional\nNew\nOrganisational Structure\nhierarchical model\ndisaggregation, restructuring public administrations into narrower, mission-focused organisations + 'policy networks' involving public, semi-public, and private actors\nAccountability\nhierarchy and control by political leadership, potentially insulating bureaucrats from direct citizen pressure\nenabling citizens to hold bureaucrats or service providers directly accountable. This is pursued through market-based (Exit) mechanisms like competition and marketised service delivery, and voice-based mechanisms like community monitoring and participatory management.\n\nManagement Philosophy \nformal authority and expert training, prioritising precision, speed, and continuity through standardised procedures\nNPM explicitly attempts to implement management ideas from business and the private sector. Its focus is on results-oriented management\nIncentives\nofficials are motivated by the public interest\nincentivisation emphasizing rewarding for specific performance\nService Delivery\ncentralised, monopolistic state agencies for the provision of large-scale public goods and services\nmarketised service delivery9, which includes privatisation of state-owned enterprises, creating public-private partnerships (PPPs), and sub-contracting service provision to private firms or non-profit agencies",
+    "examples": []
+  },
+  {
+    "title": "Principal-Agent Problem (Public Sector)",
+    "definition": "a conflict where politicians (principals) struggle to ensure bureaucrats (agents) implement policies faithfully due to misaligned incentives or information asymmetry.",
+    "examples": [
+      "Nigerian civil service projects saw 18% higher completion rates when bureaucrats had autonomy but 14% lower rates under strict monitoring (Rasul & Rogger, 2018)."
+    ]
+  },
+  {
+    "title": "Accountability",
+    "definition": "can be understood within a principal-agent framework. In this context, citizens or politicians can be seen as the principals who delegate tasks, while bureaucrats or service providers are the agents hired to carry out those tasks. Accountability refers to the mechanisms that ensure these agents perform their duties to meet the needs of the principals.",
+    "examples": []
+  },
+  {
+    "title": "The Long Route of Accountability",
+    "definition": "This route involves multiple layers of delegation and control. Citizens hold politicians accountable, and these politicians, in turn, are expected to hold bureaucrats responsible for implementing policies and delivering services.",
+    "examples": []
+  },
+  {
+    "title": "The Short Route of Accountability",
+    "definition": "The New Public Management (NPM) framework argues that the route for accountability needs to be shortened, enabling citizens to hold bureaucrats or service providers directly accountable.",
+    "examples": []
+  },
+  {
+    "title": "Revolutionary Regimes",
+    "definition": "regimes that emerge out of sustained, ideological, and violent struggle from below, accompanied by mass mobilisation and efforts to transform state structures and the social order. What explains the striking durability of revolutionary regimes?The Destruction of Independent Power Centres: not only does war facilitate the elimination (via death or exile) of immediate rivals, but it makes possible the destruction (or substantial weakening) of alternative centres of power.Example: destruction of alternative centres of power like the army, monarchy/aristocracy, religious institutions (Catholic Church in Cuba and Mexico).Strong Ruling Parties: parties with institutionalised military-style discipline and elite cohesion that emerge from revolutionary struggles, enhancing authoritarian durability.Example: During the Tiananmen Square uprising (1989), the Chinese Communist Party remained cohesive, preventing democratisation like in the USSR.Invulnerability to Coups: a feature of revolutionary regimes wherein they rarely experience coups due to restructured or new armies closely aligned with ruling elites.",
+    "examples": [
+      "The Cuban regime post-revolution, where the Catholic Church and agrarian elites were dismantled, illustrates how revolutionary regimes eliminate independent power centres",
+      "Communist governments like China and Cuba, where civilian and military elites often overlap, showing resilience to internal military overthrow"
+    ]
+  },
+  {
+    "title": "Corruption (Olken & Pande, 2012)",
+    "definition": "the abuse of public power for private gain.",
+    "examples": [
+      "In Uganda, 80% of education funds were diverted by officials (Reinikka & Svensson, 2004)."
+    ]
+  },
+  {
+    "title": "Collusive Bribe",
+    "definition": "a bribe paid instead of the full price of a service/tax, reducing state revenue ('corruption with theft').",
+    "examples": [
+      "Indonesian truck drivers paid bribes to police, lowering effective costs (Olken & Barron, 2009)."
+    ]
+  },
+  {
+    "title": "Extortionary Bribe",
+    "definition": "a bribe paid on top of the official price, increasing costs for citizens/firms ('corruption without theft').",
+    "examples": [
+      "Mozambican port officials demanded bribes equal to 14% of shipping costs (Sequeira & Djankov, 2010)."
+    ]
+  },
+  {
+    "title": "Corruption Equilibrium",
+    "definition": "a self-reinforcing cycle where corruption persists because individuals have no incentive to deviate unilaterally.",
+    "examples": [
+      "Hong Kong's pre-1974 high-corruption equilibrium shifted to low corruption after ICAC's reforms (Manion, 2004)."
+    ]
+  },
+  {
+    "title": "Endogenous red tape",
+    "definition": "refers to a situation where bureaucrats deliberately create more procedures or regulations within the administrative system to generate more opportunities to solicit bribes.\nIt directly challenges the 'efficient corruption' view.\nIt illustrates how corruption can become self-sustaining or contribute to a 'poverty trap'.\nIt underscores the principal-agent problem in public administration, where agents (bureaucrats) have the discretion to act in their own interests (creating red tape for bribes) rather than solely serving the principal (the public or the state.",
+    "examples": []
+  },
+  {
+    "title": "Third-Party Reporting",
+    "definition": "a tax enforcement mechanism where entities (e.g., employers, banks) report financial information about taxpayers to authorities, creating a paper trail.",
+    "examples": [
+      "In Chile (2009), businesses resisted allowing tax agencies access to checking accounts, but OECD membership requirements led to reforms (Pomeranz & Vila-Belda, 2019)."
+    ]
+  },
+  {
+    "title": "Value-Added Tax (VAT)",
+    "definition": "a consumption tax levied at each production stage, where firms pay tax on value added (sales minus costs).",
+    "examples": [
+      "VAT incentivises firms to document purchases (via receipts) but breaks down at final retail points due to evasion."
+    ]
+  },
+  {
+    "title": "Informational Autocrat (Guriev and Treisman)",
+    "definition": "a type of autocrat who rules primarily through controlling information rather than through violence or ideological repression.",
+    "examples": [
+      "Vladimir Putin, who uses media control, subtle censorship, and high election spending to appear democratic and competent."
+    ]
+  },
+  {
+    "title": "Informational Autocrat vs Former Autocrat",
+    "definition": "Formerly autocrats used ideology as means to legitimise rule and oppress opponents (examples: divine right of kings, religion, Marxism, etc.). Now autocrats pretend to care about democracy and their citizens: increase in the proportion of autocracies with an elected parliament.\nFormerly autocrats had no multi-party elections. Now there is a focus on allowing opposition parties to make elections appear credible.\nFormerly autocrats overtly used censorship, like burning or banning books and killing reporters. Now autocrats use more subtle techniques: threaten journalists with lawsuits, cutting government advertising, and bribing the media.",
+    "examples": []
+  },
+  {
+    "title": "Preference Falsification (Sycophants)",
+    "definition": "when individuals hold different public and private beliefs, often due to fear or incentives in authoritarian contexts.",
+    "examples": [
+      "in autocracies, people publicly support the regime to avoid punishment."
+    ]
+  },
+  {
+    "title": "Constitution",
+    "definition": "the functions of a constitution can be summarised as follows: \nTo constitute a state; \nTo institute a framework of government armed with powers and institutions necessary and adequate for the effective management of public affairs; \nTo limit those powers in the interest of the protection of liberty of the individual; \nTo declare the ideals and objectives of the nation and the duties of the state to its subjects.",
+    "examples": []
+  },
+  {
+    "title": "Parliamentary vs presidential systems",
+    "definition": "Parliamentary: head of government (e.g., PM) is elected by the legislature and can be removed via no-confidence votes. Head of state is monarch or non-executive/symbolic president .\nPresidential: head of government (e.g., president) is directly elected with fixed terms. Presidential systems tend to generate more unstable democracies.",
+    "examples": []
+  },
+  {
+    "title": "Parliamentary vs Presidential Comparison",
+    "definition": "Party\nPopular election of presidents can often generate presidents with little/no party linkages and/or experience of passing laws.\nElections\nThe loser in the parliamentary system is the leader of the opposition.\nPresidential systems concentrate power into one person's hands (not one party) and thus raises the stakes of who wins an election: losers in the presidential system get nothing.\nLegislature\nThe Prime Minister controls the parliament.\nProvides for checks and balances on executive power: legislature can hold the president to account.\nPresidential systems often generate executive/legislative deadlock, especially if different parties control the two branches.\nContinuity\nNo term limits and coalition building leads to greater policy continuity.\nLimits the ability for successive governments to pass large legislation that contradicts previous legislation, thus leading to flip-flopping.\nCrisis\nPresidential systems cannot handle crises well: no easy way to get rid of a president who is very unpopular. This often leads to coups: cf. Salvador Allende in Chile (1973).",
+    "examples": ["Trump, Bolsonaro in Brazil, Alberto Fujimori in Peru."]
+  },
+  {
+    "title": "Resource Curse",
+    "definition": "the 'paradox of plenty' where resource-rich countries experience slower growth due to weak institutions enabling rent-seeking.",
+    "examples": [
+      "Venezuela's oil wealth correlates with corruption and stagnation, unlike Norway's managed petroleum fund."
+    ]
+  },
+  {
+    "title": "Bicameralism",
+    "definition": "a legislature with two chambers (e.g., House and Senate) to provide checks and balances.",
+    "examples": [
+      "The U.S. Congress balances population-based (House) and state equality (Senate) representation."
+    ]
+  },
+  {
+    "title": "Should we have a bicameral system?",
+    "definition": "Pros\nRepresentation of distinctive groups, including regions in the federal system (Tocqueville, Jefferson and Madison).\nReflection allows for lightening load on the first chamber and provides specialised opinions on legislation (Mill).\nWilliam Riker: bicameralism allows for testing whether the parliamentary majority is a societal majority as well, and thus generates more stable policy choices.\nCons\nJeremy Bentham: 'if a second chamber represents the general interest, it is useless; and if it only represents a particular interest, it is mischievous'.\nUpper chambers seen as dominated by right-wing interests, lowering taxation, government expenditure, state intervention.\nEvidence from OECD countries that they lower female representation.",
+    "examples": []
+  },
+  {
+    "title": "First-Past-the-Post (FPTP)",
+    "definition": "a majoritarian electoral system where the candidate with the most votes wins, often leading to two-party dominance (Duverger's law).",
+    "examples": [
+      "The UK's 2015 election gave SNP 56 seats with 4.7% of votes, while UKIP won 1 seat with 12.6%."
+    ]
+  },
+  {
+    "title": "Proportional Representation (PR)",
+    "definition": "an electoral system where seats match vote shares, favouring multi-party systems.",
+    "examples": [
+      "Dutch system that is 100% representative, matching vote percentage with seat distribution 1:1."
+    ]
+  },
+  {
+    "title": "Federalism",
+    "definition": "constitutional decentralisation of power to self-governing regional units. Often designed along ethnic/linguistic lines.",
+    "examples": [
+      "Ethiopia's ethnic-based federalism grants autonomy to regions like Tigray."
+    ]
+  },
+  {
+    "title": "Consociationalism",
+    "definition": "power-sharing among segmented groups (e.g., ethnic/religious). \nGrand Coalition (each pillar is part of the government).\nMutual Veto (rule based on consensus).\nProportionality (each pillar is equally represented).\nSegmental autonomy (allows for different culturally-based laws).",
+    "examples": [
+      "Lebanon's system allocates presidency to Maronites, PM to Sunnis, and speaker to Shiites."
+    ]
+  },
+  {
+    "title": "Devolution",
+    "definition": "the transfer of political, fiscal, and administrative powers to democratically elected local governments.",
+    "examples": [
+      "Bolivia's 1994 decentralisation, which granted municipalities control over education and health budgets."
+    ]
+  },
+  {
+    "title": "Decentralisation",
+    "definition": "devolution of specific functions to democratic local governments that are independent of the centre within a geographic and functional domain. Theory provides a strong rationale for decentralisation. A government that is 'closer to the people' should lead to better public goods and more effective government. How?\nFrom the supply side, smaller scale facilitates better information, greater participation and more accountability, deepening democracy. \nFrom the demand side, all else equal, the rule of the central government might be more heterogeneous in comparison to that at the local level, which might be able to serve the citizens better.",
+    "examples": ["Bolivia in the mid 90s, India"]
+  },
+  {
+    "title": "Public Value (Moore, 1995)",
+    "definition": "the idea that governments must balance efficiency with creating broader societal value, beyond mere service delivery.",
+    "examples": [
+      "India's Aadhaar system aims to improve welfare targeting while addressing inclusion/exclusion trade-offs."
+    ]
+  },
+  {
+    "title": "Good Governance",
+    "definition": "a policy agenda (1990s+) promoting institutional reforms aligned with market liberalisation, measured by 8 UN factors: participation, rule of law, transparency, responsiveness, consensus orientation, equity/inclusiveness, effectiveness/efficiency, and accountability.",
+    "examples": [
+      "E-governance initiatives like India's DigiLocker enhance transparency by enabling electronic document sharing."
+    ]
+  },
+  {
+    "title": "E-Governance Evolution (Heeks, 2018)",
+    "definition": "E-Administration (1980s–90s): Back-end applications to improve programme delivery through decentralisation (e.g., CRISP in India).\nE-Services (2000s): Front-end citizen-government interactions (e.g., bill payments via telecentres).\nE-Democracy (2010s): Online voting/activism (e.g., digital petitions).\nDigital Governance (Late 2010s): Integrated platforms (e.g., India Stack).",
+    "examples": []
+  },
+  {
+    "title": "Types of goods",
+    "definition": "Excludable: you can prevent people from accessing them if they don't pay or don't meet certain conditions.\nNon-excludable: it's difficult or impossible to prevent people from using them.\nRival: if one person consumes the good, there is less available for others.\nPrivate Goods (e.g., food, clothes, cars).\nProvided by: market.\nCommon Pool Goods (e.g., fish in the ocean, public forests, other 'environmental' goods).\nProvided by: community based development.\nNon-rival: one person's consumption does not reduce the availability for others.\nClub/ Toll Goods (e.g., Netflix, private parks, satellite TV).\nProvided by: market.\nPublic Goods (e.g., streetlights, national defense, free-to-air TV).\nProvided by: state.",
+    "examples": []
+  },
+  {
+    "title": "Tragedy of the Commons (Hardin)",
+    "definition": "a model predicting that individuals, acting independently and rationally, will overuse and deplete a common pool resource. This is because each user has the incentive to maximise their short-term individual gains and overconsume as costs are distributed collectively. The tragedy of the commons has come to symbolise 'the degradation of the environment to be expected whenever many individuals use a scarce resource in common'.",
+    "examples": []
+  },
+  {
+    "title": "The Prisoner's Dilemma",
+    "definition": "a noncooperative game where every player's dominant strategy is to defect, leading to Pareto suboptimal outcomes. A prisoner's dilemma game assumes that players have complete information (all players know the full structure of the game tree and the payoffs attached to outcomes), cannot communicate, have no binding agreements, and do not have the capacity to change the rules.\nDominant strategies: in the game, each player is always better off choosing to defect no matter what the other player chooses.\nNash equilibrium: when both players choose their personal dominant strategies, they produce an equilibrium where neither cooperates, and given the game layout none has an individual incentive to change strategy.\nPareto suboptimal equilibrium: the Nash equilibria is an inferior result for both of them than other potential results. A Pareto-optimal outcome occurs when there is no other outcome strictly preferred by at least one player that is at least as good for the others. In the two-person prisoner's dilemma game, both players prefer the (cooperate, cooperate) outcome to the (defect, defect) outcome. Thus, the equilibrium outcome is Pareto-suboptimal.\nApplied to CPRs, this models the conflict between individual rationality (overuse) and collective rationality (sustainable use). 'Formalises' the tragedy of the commons in a game theoretical format.",
+    "examples": []
+  },
+  {
+    "title": "Prisoner's Dilemma Payoff Matrix",
+    "definition": "PLAYER 2\n\n\nNot confess\nConfess\nP\nL\nA\nY\nE\nR\n1\nNot confess\n(10,10)\n(-1,11)\nConfess\n(11, -1)\n(0,0)",
+    "examples": []
+  },
+  {
+    "title": "Collective action",
+    "definition": "the capacity of citizens to organize themselves and act together to achieve common interests, particularly for self-provision of non-excludable goods and services (Shami 2012).",
+    "examples": [
+      "Rotating credit and saving schemes (e.g Arisan in Java Indonesia and ROSCAs in West Africa, Dhukuti in Nepal)",
+      "Indigenous movements: Zapista in Mexico."
+    ]
+  },
+  {
+    "title": "Collective Action Problem",
+    "definition": "the challenge where individuals in a group may avoid contributing effort or resources (free-ride) despite shared interests, hindering collective political or social action. Institutionalised power (e.g., constitutions) helps mitigate this by providing predictable mechanisms for coordination.",
+    "examples": [
+      "U.S. Civil Rights Movement required institutionalised protests to overcome collective action barriers."
+    ]
+  },
+  {
+    "title": "Collective action vs. collective achievement",
+    "definition": "Krishna (2002) looks at community participation in 69 villages in India to determine why certain communities are more successful at self provision than others.\nControlling for levels of social capital and institutional quality, he finds that villages where agents/ leaders existed to channel villagers' collective activities were far more likely to be able to self-provide for their needs. Agency in the village were of two types:\nTraditional village council to deal with issues relating to community harmony.\nNewly educated local youths to deal with 'modern' challenges such as economic development and political participation.",
+    "examples": []
+  },
+  {
+    "title": "Ostrom's Design Principles for self-governing institutions",
+    "definition": "design principles that are empirically derived characteristics that have been observed in successfully governed CPRs:\nClearly Defined Boundaries is the ability to restrict access to authorised users and define the CPR's physical limits.\nCongruence with Local Conditions: Rules align with social, ecological, and economic contexts.\nCollective-Choice Arrangements: Affected participants shape rules through participatory processes.\nMonitoring: Accountability mechanisms to track compliance.\nGraduated Sanctions: Penalties escalate with severity/frequency of violations.\nConflict Resolution Mechanisms: Local, low-cost forums to resolve disputes.\nRecognition of Rights to Organise: External authorities legitimize local institutions.\nNested Enterprises: Layered governance structures (e.g., local to regional). Hierarchical governance structures where smaller units form the foundation for larger institutions. Reduces transaction costs and builds on prior organisational capital.",
+    "examples": [
+      "Alanya, Turkey, where fishermen self-regulate their catchment areas so as to create an equitable rotational system."
+    ]
+  },
+  {
+    "title": "Social Capital",
+    "definition": "trust, reciprocity, and shared norms developed through repeated interactions. Features of social organization such as networks, norms and social trust that facilitate coordination and cooperation for mutual benefit, enabling communities to overcome free-rider problems. It represents a 'propensity for mutually beneficial collective action' which enables communities to self-organise and enforce rules.",
+    "examples": [
+      "Community-based rotating credit schemes (called 'arisan') on Java as an opposite example of social capital."
+    ]
+  },
+  {
+    "title": "Community Led Development (CBD)",
+    "definition": "a structured development approach where communities are involved in planning, implementing and managing development projects that directly affect them. It is often facilitated by external actors such as NGOs, government or donors. CBD relies on collective action to succeed (e.g., community meetings, group decision-making, joint labour).",
+    "examples": [
+      "Orangi Pilot Project in Pakistan or community-led microcredit programs facilitated by NGOs, with structured financial training (e.g Grameen Bank Model)"
+    ]
+  },
+  {
+    "title": "Formal vs. Informal institutions",
+    "definition": "Formal Institutions: a system of rules, procedures, or organisations officially established to facilitate cooperation and overcome coordination or free-rider problems among individuals or states.\nInformal Institutions: they are locally embedded norms, networks, and practices that function outside formal state structures. They fill institutional voids where formal governance fails, particularly in developing countries. Unlike formal institutions, they offer social insurance, resolve disputes, and provide public goods in contexts of state absence or ineffectiveness. Informal institutions often rely on proximity, trust, and social sanctions.\nOstrom et al. (2006): the key distinction between formal and informal institutions is the extent of state reach. Informal institutions may be deeply functional, even if unregulated.",
+    "examples": []
+  },
+  {
+    "title": "Modern Institutions",
+    "definition": "liberal institutions based on the idea of individualism and individuals' having equal rights and freedom in all aspects of political, economic and social spheres.",
+    "examples": []
+  },
+  {
+    "title": "Traditional Institutions",
+    "definition": "Based on collective norms and benefits where the utility of the individual is secondary to that of the group.\nLevel of contestability: they are difficult, if not impossible, to change formally. They can create a relationship of dependency which allows for abuse of power. The only way of overriding a traditional institution is to bring a more functional one.\nTraditional institutions face the same constraints as the modern institutions where they need to meet functional needs, such as maintaining order, insuring people against risks, while operating within the limits set by capabilities (skills knowledge), endowments (natural resources) and value systems (cultural or religious beliefs).",
+    "examples": []
+  },
+  {
+    "title": "Traditional vs Modern Institutions",
+    "definition": "Traditional\nModern\nInformal\nSpirituality, family ties, clientelism, caste-based networks\nSocial Media, Lobbying, neighbourhood watch, global civil society\nFormal\nReligion, Monarchy, Sharia Law\nDemocracy, Rule of Law, Elections, Property Rights, Trade Unions",
+    "examples": []
+  },
+  {
+    "title": "Hybrid Institutions",
+    "definition": "arrangements that combine or adapt elements of both modern (liberal) and traditional (customary) systems to deliver essential services in weak-state settings. They are not simple fusions but adaptive systems where formal actors use informal networks to enhance reach, legitimacy, and effectiveness.E.g Microcredit",
+    "examples": [
+      "Micro-insurance in India. Prior to 2002, the poorest population in India did not have access to formal insurance and instead had to rely on social insurance to cover themselves against risks. In 2002, the government made it mandatory for private insurance companies to insure the rural and socially disadvantaged. Problem: cost of gathering information and transaction cost was high. Solution: insurance companies dealt with low-income clients through a community-based organisation."
+    ]
+  },
+  {
+    "title": "Non-government Organisation (NGO)",
+    "definition": "an organisation that has institutional structure, which is private, not for profit, self-governing, and voluntary. They are organisations concerned with the promotion of social, political or economic change –an agenda that is usually associated with the concept of development or providing support to people who are in need. NGOs are incredibly diverse and difficult to define because they come in many shapes and sizes, are financed by a range of sources, mean different things to different people, and have evolved differently based on historical context. They also take on different names (eg. Community Based Organisations (CBOs), Grassroots Organisations (GROs), Private Voluntary Organisations (PVOs)). The nature of their definition is what they are not: they are separate from the state. However, even this rule is flexible, given the existence of Government-organised NGOs (GONGOs).",
+    "examples": []
+  },
+  {
+    "title": "Simplification (Scott, 1998)",
+    "definition": "a process in which the state creates standards to simplify complex societies to make them understandable. This, in turn, helps the state to better focus on different aspects of society, making them more manageable. It allows the state to categorise people/entities into predetermined boxes that are associated with respective and specific characteristics, making the population more 'legible'. This then allows the state to design relevant regulations/rules for each group. It is a 'peaceful' way of governance, a way for the state to avoid resorting to violence.",
+    "examples": [
+      "Checkboxes for ethnicity in government forms which provide pre-decided categories for citizens to fit into",
+      "Gender categories, common language, etc."
+    ]
+  },
+  {
+    "title": "NGO Accountability",
+    "definition": "NGOs face two types of accountability.\nUpwards Accountability: accountability to donors, funders and external regulatory authorities, usually delivered through reports and feedback on the progress of the project.\nDownward Accountability: accountability to beneficiaries and the society they aim to have an impact on, usually delivered through participatory sessions, feedback sessions and efforts that attempt to give beneficiaries a voice.\nUpward accountability tends to take precedence from NGOs' perspectives due to their direct influence on NGO funding and operations. This can limit NGO's efficacy, resulting in a disconnect and influencing citizens' perception of their legitimacy and effectiveness. However, on the positive side, upward accountability can put pressure on NGOs to align with goals and regulations.",
+    "examples": ["Oxfam to UK government.", "UNHCR to registered refugees."]
+  },
+  {
+    "title": "Aid",
+    "definition": "\"aid consists of financial flows and technical assistance (including policy advice) that are meant to improve the living standards and human potential of people in poor countries.\" (Faguet and Brett). Why do countries give aid? There are many reasons, including the examples listed above, but also disaster relief, to make donors feel good and to push forward, or tie in, political and institutional reforms.",
+    "examples": []
+  },
+  {
+    "title": "Financing gap",
+    "definition": "idea based on the Harrod-Domar model of economic development, which states that the developing world is faced with a lack of capital to invest and therefore cannot develop, relying very much on project based development.",
+    "examples": [
+      "Investments in large projects such as building dams and bridges."
+    ]
+  },
+  {
+    "title": "Fungibility of aid",
+    "definition": "aid money ear-marked for a particular area can easily be funnelled into other sectors the government has priorities in. Conditionalities of Structural Adjustment Programmes were seen as a way of changing this by tying aid to agreed changed behaviour.",
+    "examples": [
+      "Aid is given to health but goes through a government, which also has other objectives (here military spending) and can take advantage of fungibility of aid. No $-to-$ relationship between ear-marked aid and recipient's spending pattern."
+    ]
+  },
+  {
+    "title": "Credible commitment problem (States)",
+    "definition": "Governments in developing countries signed up reforms in exchange for large loans, with no intention of meeting the conditions knowing that the WB faced a credibility problem —they lacked the incentive to stop aid to countries failing to meet conditionalities. The World Bank suffers from a time inconsistency problem –commitment to withhold aid at t0 disappears at t1.",
+    "examples": []
+  },
+  {
+    "title": "Development/Poverty Traps",
+    "definition": "Collier (2007), identifies four development traps that explain why some countries remain persistently poor despite global progress. These are termed \"traps\" because they are self-reinforcing: countries caught in them often lack the internal capacity or incentives to escape, and standard development policies are insufficient without targeted, context-specific intervention.",
+    "examples": []
+  },
+  {
+    "title": "The Conflict Trap",
+    "definition": "countries with repeated civil wars or internal conflicts experience economic decline, institutional breakdown and displacement as they get stuck in a cycle. Countries dependent on resource exports (e.g oil, diamonds) have a high risk of civil war, since rebels can use things like oil or diamonds to fund their fights. Most civil wars happen in very poor countries, and unlike richer countries where conflicts usually end quickly, wars in poor countries often drag on or restart. Poverty makes it easier for rebel groups to recruit young men who have few other options, and weak governments can't stop them easily.",
+    "examples": [
+      "South Sudan gained independence in 2011 from Sudan but quickly fell into civil war. Despite several peace agreements, military conflict persists. Its economy is also heavily reliant on oil, however production is disrupted by conflict."
+    ]
+  },
+  {
+    "title": "The Natural Resource Trap",
+    "definition": "Resource-rich countries may suffer from weak governance, rent seeking and \"Dutch Disease\". Rebel groups can finance their operations by controlling these resources, prolonging conflict. Natural resource exports raise a country's currency value, making other exports less competitive (eg. Nigeria's farming collapse during the oil boom). Resource prices are unstable, causing revenue swings that lead to bad spending habits. Weak governance is the main issue. In resource-rich countries, money is often wasted or stolen, and democracy suffers because leaders use cash to buy votes instead of being accountable.",
+    "examples": [
+      "Sierra Leone (Diamond), Angola→ accounts for 90% of exports but overdependence on oil, neglecting other sectors like agriculture and manufacturing (Dutch disease case, because of overvalued exchange rate that made other sectors uncompetitive). High levels of corruption and civil war (1975-2002) between government and rebels prolonged as they were funded through oil money and diamond smuggling."
+    ]
+  },
+  {
+    "title": "Being Landlocked with Bad Neighbours Trap",
+    "definition": "Landlocked countries face economic difficulties stemming from their geographic position and limited access to natural resources. They also face high transport costs and economic prospects heavily influenced by the quality of policies of their neighboring countries. Significant portion (38%) of the population in bottom-billion societies resides in landlocked countries.",
+    "examples": [
+      "Burundi is completely landlocked, no access to the sea with no ports of its own. It relies on transit through neighbouring countries for export and imports which raises transportation costs. Burundi's neighbouring countries: Rwanda, DRC and Tanzania. DRC: Spillover of frequent regional instability from DRC (esp eastern DRC), affecting refugee flows, smuggling and security costs. Rwanda: Historical ethnic and political rivalries between the two countries, resulting in border disruptions and restricted cross-border movement.\nTanzania: Relatively stable compared to the two countries but its transport corridor it's often congested, slow and burdened with bureaucratic hurdles."
+    ]
+  },
+  {
+    "title": "Bad Governance in a Small Country Trap",
+    "definition": "good governance fosters economic growth up to a certain limit, while poor governance can lead to rapid economic decline.The effects of governance are context specific and can be overshadowed by external factors. Reform is possible but rare as elites benefit from bad policies hence corruption and bad governance persist",
+    "examples": [
+      "Djibouti has, after relatively late independence from France in 1977, seen a unitary party state and a civil war. The president is currently in his 5th term and opposition parties have boycotted close to all elections. Close to 23% of the population live in extreme poverty and is ranked 175th on the world HDI ranking."
+    ]
+  },
+  {
+    "title": "First-best institutions",
+    "definition": "ideal textbook systems such as appropriate incentives, property rights, sound fiscal solvency, competitive markets and democratic accountability. → Western ideology-Follow Washington Consensus blueprint for growth.\nRodrik (2007) argues against this: in the short run, the first best institutions aren't always the best. Given the structure that is in place in a country, one should design policies that match those conditions (hybrid institutions, for example). In the long run, there should be a development towards first best institutions.",
+    "examples": []
+  },
+  {
+    "title": "Second-best institutions",
+    "definition": "unorthodox institutional arrangements are designed to function effectively within real-world constraints, such as weak state capacity, political instability, or limited administrative resources.",
+    "examples": [
+      "Successful cases:\nChina relied on highly unorthodox, non-standard institutions to spur growth.\nIndia's (1947-1990) License Raj gradually changed into a more liberal system."
+    ]
+  }
+]
