@@ -254,8 +254,13 @@
   },
   {
     "title": "Types of Capitalism",
-    "definition": "",
-    "examples": []
+    "definition": "Liberal Market Economy (LME): capitalism driven by market competition, short-term employment, and general skills (e.g., U.S., UK).\n Coordinated Market Economy (CME): capitalism relying on long-term stakeholder negotiation, sectoral unions, and skill-specific training (e.g., Germany).\n Network Capitalism: economic coordination through informal ties and cross-shareholding among firms (e.g., Japan’s keiretsu).\n Hierarchical Capitalism (Latin America): an economic system dominated by family-owned conglomerates and MNCs, with weak labor rights and low skill investment, perpetuating inequality.",
+    "examples": [
+      "Silicon Valley’s flexible labor market, where tech firms hire/fire based on demand.",
+      "Germany’s apprenticeship system, where firms and unions co-design vocational training.",
+      "Toyota’s keiretsu suppliers, which collaborate closely on R&D and production.",
+      "Grupo Carso (Mexico), a diversified conglomerate owned by Carlos Slim, controls telecom, construction, and retail sectors with minimal worker up-skilling."
+    ]
   },
   {
     "title": "Liberal Market Economy (LME)",
